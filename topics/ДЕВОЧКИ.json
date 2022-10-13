@@ -3,7 +3,7 @@
     "items": [
         {
             "type": "image",
-            "data": "uploads/188155_932x1242_fd92901691.jpg"
+            "data": "(❗ товар закончился) /uploads/188155_932x1242_fd92901691.jpg"
         },
         {
             "type": "text",
@@ -24,7 +24,7 @@
         },
         {
             "type": "image",
-            "data": "uploads/192785_932x1242_e05ee3bab0.jpg"
+            "data": "(✅ в наличии) /uploads/192785_932x1242_e05ee3bab0.jpg"
         },
         {
             "type": "text",
@@ -45,14 +45,14 @@
         },
         {
             "type": "image",
-            "data": "uploads/2_0841323909.jpg"
+            "data": "(✅ в наличии) /uploads/2_0841323909.jpg"
         },
         {
             "type": "text",
             "data": [
                 {
                     "class": "md-title",
-                    "text": "Платье с принтом от 104 разм. за 799.0₽ (✅ в наличии) "
+                    "text": "Платье с принтом от 104 разм. за 799.0₽"
                 }
             ]
         },
