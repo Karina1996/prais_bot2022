@@ -3,7 +3,7 @@
     "items": [
         {
             "type": "image",
-            "data": "ttps://s3-s1.retailcrm.tech/ru-central1/retailcrm/karina1996-github-70a24a47ab34314d82f9b40d539a76a9/product/634c20e5e279d-2_0841323909.jpg"
+            "data": "https://s3-s1.retailcrm.tech/ru-central1/retailcrm/karina1996-github-70a24a47ab34314d82f9b40d539a76a9/product/634c20e5e279d-2_0841323909.jpg"
         },
         {
             "type": "text",
@@ -18,13 +18,13 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Артикул: SSC-16/n/nПлатье с принтом\n- А-силуэт\n- Длина мини\n- Круглый вырез\n- Длинный рукав\n- Манжеты с подворотом\n- Отрезной лиф\n- Петельчатая изнанка\n\nВозраст: 2-6 лет\nСезон: ОСЕНЬ 2022\nСостав: 100% хлопок\nЦВЕТ: чёрный, мультиколор."
+                    "text": "Артикул: SSC-16\\n\\nПлатье с принтом\r\n- А-силуэт\r\n- Длина мини\r\n- Круглый вырез\r\n- Длинный рукав\r\n- Манжеты с подворотом\r\n- Отрезной лиф\r\n- Петельчатая изнанка\r\n\r\nВозраст: 2-6 лет\r\nСезон: ОСЕНЬ 2022\r\nСостав: 100% хлопок\r\nЦВЕТ: чёрный, мультиколор."
                 }
             ]
         },
         {
             "type": "image",
-            "data": "ttps://s3-s1.retailcrm.tech/ru-central1/retailcrm/karina1996-github-70a24a47ab34314d82f9b40d539a76a9/product/634c1eea6ec6b-188155_932x1242_fd92901691.jpg"
+            "data": "https://s3-s1.retailcrm.tech/ru-central1/retailcrm/karina1996-github-70a24a47ab34314d82f9b40d539a76a9/product/634c1eea6ec6b-188155_932x1242_fd92901691.jpg"
         },
         {
             "type": "text",
@@ -39,13 +39,13 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Артикул: SSC-17/n/nДжинсовый сарафан\n- Прямой крой\n- Длина мини\n- Регулируемые лямки с металлическими пряжками\n- Три накладных кармана\n- Однотонный дизайн\n\nВозраст: 2-6 лет\nСезон: ОСЕНЬ 2022\nСостав: 66% хлопок, 33% полиэстер, 1% эластан\nЦВЕТ: тёмный индиго."
+                    "text": "Артикул: SSC-17\\n\\nДжинсовый сарафан\r\n- Прямой крой\r\n- Длина мини\r\n- Регулируемые лямки с металлическими пряжками\r\n- Три накладных кармана\r\n- Однотонный дизайн\r\n\r\nВозраст: 2-6 лет\r\nСезон: ОСЕНЬ 2022\r\nСостав: 66% хлопок, 33% полиэстер, 1% эластан\r\nЦВЕТ: тёмный индиго."
                 }
             ]
         },
         {
             "type": "image",
-            "data": "ttps://s3-s1.retailcrm.tech/ru-central1/retailcrm/karina1996-github-70a24a47ab34314d82f9b40d539a76a9/product/634c207d21f7e-192785_932x1242_e05ee3bab0.jpg"
+            "data": "https://s3-s1.retailcrm.tech/ru-central1/retailcrm/karina1996-github-70a24a47ab34314d82f9b40d539a76a9/product/634c207d21f7e-192785_932x1242_e05ee3bab0.jpg"
         },
         {
             "type": "text",
