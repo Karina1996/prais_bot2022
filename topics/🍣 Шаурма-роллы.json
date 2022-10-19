@@ -3,14 +3,14 @@
     "items": [
         {
             "type": "image",
-            "data": "https://s3-s1.retailcrm.tech/ru-central1/retailcrm/karina1996-github-70a24a47ab34314d82f9b40d539a76a9/product/634e92aea7672-st1.jpg"
+            "data": "https://s3-s1.retailcrm.tech/ru-central1/retailcrm/karina1996-github-70a24a47ab34314d82f9b40d539a76a9/product/634e92dd3404f-st9.jpg"
         },
         {
             "type": "text",
             "data": [
                 {
                     "class": "md-title",
-                    "text": "Фреш-ролл с курицей  (✅ в наличии) 400гр. за 355.0₽"
+                    "text": "Буррито  (✅ в наличии) 320 гр. за 175.0₽"
                 }
             ]
         },
@@ -18,7 +18,28 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Фреш-ролл с курицей \n\nКапуста китайская, Курица, Огурцы, Помидоры, Соус Тар-тар, Сыр Пармезан, Тортилья"
+                    "text": "Капуста китайская, Курица, Лук красный, Сыр Моцарелла, Перец болгарский, Помидоры, Рис, Соус Мексиканский, Тортилья, Фасоль красная"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "https://s3-s1.retailcrm.tech/ru-central1/retailcrm/karina1996-github-70a24a47ab34314d82f9b40d539a76a9/product/634e92aea7672-st1.jpg"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "class": "md-title",
+                    "text": "Фреш-ролл с курицей  (✅ в наличии) 360 гр. за 160.0₽"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Капуста китайская, Курица, Огурцы, Помидоры, Соус Тар-тар, Сыр Пармезан, Тортилья"
                 }
             ]
         }
