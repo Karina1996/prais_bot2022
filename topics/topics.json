@@ -10,18 +10,18 @@
         "preview": "https://s3-s1.retailcrm.tech/ru-central1/retailcrm/karina1996-github-70a24a47ab34314d82f9b40d539a76a9/product/634c214dbc33c-194684_932x1242_d57b340527.jpg"
     },
     {
-        "id": "Напитки",
-        "title": "Напитки",
-        "preview": "https://s3-s1.retailcrm.tech/ru-central1/retailcrm/karina1996-github-70a24a47ab34314d82f9b40d539a76a9/product/634e7e1b2f88f-n1.jpg"
-    },
-    {
-        "id": "Салаты",
-        "title": "Салаты",
-        "preview": "https://s3-s1.retailcrm.tech/ru-central1/retailcrm/karina1996-github-70a24a47ab34314d82f9b40d539a76a9/product/634e9219aa87d-net_foto.png"
-    },
-    {
         "id": "🍣 Шаурма-роллы",
         "title": "🍣 Шаурма-роллы",
         "preview": "https://s3-s1.retailcrm.tech/ru-central1/retailcrm/karina1996-github-70a24a47ab34314d82f9b40d539a76a9/product/634e92aea7672-st1.jpg"
+    },
+    {
+        "id": "🥗 Салаты",
+        "title": "🥗 Салаты",
+        "preview": "https://s3-s1.retailcrm.tech/ru-central1/retailcrm/karina1996-github-70a24a47ab34314d82f9b40d539a76a9/product/634e9219aa87d-net_foto.png"
+    },
+    {
+        "id": "🧃 Напитки",
+        "title": "🧃 Напитки",
+        "preview": "https://s3-s1.retailcrm.tech/ru-central1/retailcrm/karina1996-github-70a24a47ab34314d82f9b40d539a76a9/product/634e7e1b2f88f-n1.jpg"
     }
 ]
